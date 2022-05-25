@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name": "Kelvin Chan",
+    "occupation": "Full stack & Blockchain Developer",
+    "description": "I have 8 years of experience in developing websites and applications based on Python + Django , MEAN stack, MERN stack, Laravel + Vue.js. As I have solid basis and rich experiences on programming such as C, C++, Python, Go and so on, I am confident that I can carry out any task regardless scale and kinds.",
+    "image": "profilepic.jpg",
+    "bio": "I have studied abroad in Malaysia. I entered in Asia Pacific University of Technology & innovation to have ability to work effectively as a team leader or a member in a team within several fields. I have graduated from Asia Pacific University of Technology & innovation with Bachelor of Engineering in 2013. Before my current position, I was a senior software developer in KESM Industries Berhad and a full stack developer in SYS IT (M) Sdn Bhd. While working there, I have developed a lot of web sites and applications and managed 10+ projects for 8 years. I'm an experienced web developer constantly seeking out innovative solutions to complex problems.During past 8 years, I've honed my analytical thinking and collaboration skills, and I love working with a team. I have rich experience of Python Django, MEAN Stack, MERN Stack, Laravel + Vue and Block chain technologies such as Trading algo, Dapp, Smart contract, Swap & Pool and etc. My hobbies are football, basketball, listening to music, and swimming.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you. ",
+    "email": "kelvin.chan.pro@gmail.com",
+    "phone": "+61 075-641-1270",
+    "address": {
+      "street": "55 Bapaume Road",
+      "city": "MUNIGANEEN QLD",
+      "state": "Australia",
+      "zip": "4352"
+    },
+    "website": "http://www.kelvinchandev.com",
+    "resumedownload": "http://kelvinchandev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kelvin-chan-170994236/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/KelvinChan-pro",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Asia Pacific University of Innovation & Technology",
+        "degree": "Bachelor of Engineering, Computer Science (GPA: 3.8/4.0)",
+        "graduated": "April 2013",
+        "description": "The selling point about my university is that is one of a few universities which offer English course and the environment where you can meet people from more than 80 nationalities. Along with this uniqueness, all the knowledge is based on multidimensioned viewpoints. Teachers are really opened for discussion and motivating students to explore and try out new things as the motto 'Shape your world' of my university."
+      }
+    ],
+    "work": [
+      {
+        "company": "SYS IT (M) Sdn",
+        "title": "Full stack developer",
+        "years": "August 2018 – December 2021",
+        "description": ""
+      },
+      {
+        "company": "KESM Industries Berhad",
+        "title": "Embedded Software Developer",
+        "years": "June 2013 – July 2018",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "VueJs",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "portfolio site",
+        "category": "",
+        "image": "portfoliosite.jpg",
+        "url": ""
+      },
+      {
+        "title": "makeagif",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "makeagif.jpg",
+        "url": "https://makeagif.com/"
+      },      
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Good working communication, and always kept us up-to-date with what was going on with the project. Very accommodating to any updates and changes to the project, and was quick to handle all issues we brought up. They also offered to help us with any future needs or questions about our site should they come up in the future. We are very satisfied with the work and would hire them again! Thanks!",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "Our website needed a complete redesign of all the pages. It was over 20 years old. We looked at their portfolio of sites and were impressed by their designs. I showed them our website and they gave us a good estimate of how long and how much it would take. I was concerned that they were not in our timezone but that turned out to not be an issue. They are very fast at responding to feedback. And the work was amazing. Very beautiful design, logos, ... I would definitely work with them again.",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
